@@ -1,1 +1,1 @@
-Chat Applications
+Chat Application.
